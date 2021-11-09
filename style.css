@@ -117,4 +117,13 @@ h1{
         top:0;
         left: 5px;
     }
+    
 }
+/* media query for tablet version */
+@media screen and (max-width:768px){
+    .wrapper{
+        display: flex;
+        margin-top: 5%;
+    }
+}
+
