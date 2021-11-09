@@ -21,7 +21,7 @@
     gap:5px;
     height: 100vh;
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(200px,20%));
+    grid-template-columns: repeat(auto-fit,minmax(600px,20%));
     justify-content: center;
     align-items: center;
 }
